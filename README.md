@@ -1,2 +1,2 @@
 # A Simple Tic Tac Toe game, in way to learn development in js.
-link -[clike here to play](https://prakashgolusingh.github.io/index/)
+link -[clike here to play](https://prakashgolusingh.github.io/Tic-Tac-Toe/)
